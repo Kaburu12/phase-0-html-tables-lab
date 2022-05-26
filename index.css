@@ -1,0 +1,23 @@
+table {
+    font-family: arial;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+table,
+th,
+tr,
+td {
+    border-style: solid;
+}
+
+td,
+th {
+    border: 1px solid #f5f6f6;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:first-child {
+    background-color: #f5f6f6;
+}
